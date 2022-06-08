@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nihadae/Desktop/NewCode/NewCode/NewCode.csproj": {}
+    "/Users/nihadae/Desktop/ConsApp/ConsApp/ConsApp.csproj": {}
   },
   "projects": {
-    "/Users/nihadae/Desktop/NewCode/NewCode/NewCode.csproj": {
+    "/Users/nihadae/Desktop/ConsApp/ConsApp/ConsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nihadae/Desktop/NewCode/NewCode/NewCode.csproj",
-        "projectName": "NewCode",
-        "projectPath": "/Users/nihadae/Desktop/NewCode/NewCode/NewCode.csproj",
+        "projectUniqueName": "/Users/nihadae/Desktop/ConsApp/ConsApp/ConsApp.csproj",
+        "projectName": "ConsApp",
+        "projectPath": "/Users/nihadae/Desktop/ConsApp/ConsApp/ConsApp.csproj",
         "packagesPath": "/Users/nihadae/.nuget/packages/",
-        "outputPath": "/Users/nihadae/Desktop/NewCode/NewCode/obj/",
+        "outputPath": "/Users/nihadae/Desktop/ConsApp/ConsApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nihadae/.nuget/NuGet/NuGet.Config"

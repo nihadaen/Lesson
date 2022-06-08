@@ -1,0 +1,12 @@
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.csprojAssemblyReference.cache
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.AssemblyInfoInputs.cache
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.AssemblyInfo.cs
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.csproj.CoreCompileInputs.cache
+/Users/nihadae/Desktop/ConsApp/ConsApp/bin/Debug/netcoreapp3.1/ConsApp.deps.json
+/Users/nihadae/Desktop/ConsApp/ConsApp/bin/Debug/netcoreapp3.1/ConsApp.runtimeconfig.json
+/Users/nihadae/Desktop/ConsApp/ConsApp/bin/Debug/netcoreapp3.1/ConsApp.runtimeconfig.dev.json
+/Users/nihadae/Desktop/ConsApp/ConsApp/bin/Debug/netcoreapp3.1/ConsApp.dll
+/Users/nihadae/Desktop/ConsApp/ConsApp/bin/Debug/netcoreapp3.1/ConsApp.pdb
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.dll
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.pdb
+/Users/nihadae/Desktop/ConsApp/ConsApp/obj/Debug/netcoreapp3.1/ConsApp.genruntimeconfig.cache
